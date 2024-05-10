@@ -2,8 +2,6 @@
 
 Welcome to Uber New York Data Analysis project! 🎉
 
-![Uber New York](https://images.unsplash.com/photo-1545153049-0a7c9b3f9ae7?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80)
-
 ## Overview 📊
 This repository contains a comprehensive analysis of Uber ride data in the vibrant city of New York 🌆. Dive into our findings to uncover insights that will pique your curiosity and broaden your understanding of urban transportation trends. 
 
